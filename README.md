@@ -1,5 +1,5 @@
 # GoogleDorks
-    Note :Combination of these google dorks give inormous power for OSINT.I would keep updating it with time
+    Note :Combination of these google dorks give enormous power for OSINT.I would keep updating it with time.
     
     site: Shows results to specific site for john carrier. 
     Example: site:facebook.com  John carrier
