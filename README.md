@@ -25,7 +25,10 @@
     jobs -indeed
     
     Find non-secure pages
-    Example:indeed.com inurl:-https
+    Example: site:indeed.com inurl:-https
     
     Finding subdomains alongwith removal of www results
-    Example:site:*.indeed.com -www
+    Example: site:*.indeed.com -www
+    
+    Define:Too get defination and meaning of something  specific.It would show defination from different websites
+    Example: define:lattice
