@@ -32,3 +32,9 @@
     
     Define:Too get defination and meaning of something  specific.It would show defination from different websites
     Example: define:lattice
+
+
+
+Real Scenario examples:
+1-For finding hacked websites or which have hacked in the past(bb)
+       site:*.edu.pk Hacked 
