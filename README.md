@@ -37,4 +37,4 @@
 
 Real Scenario examples:
 1-For finding hacked websites or which have hacked in the past(bb)
-       site:*.edu.pk Hacked 
+       site:*.edu.in Hacked 
