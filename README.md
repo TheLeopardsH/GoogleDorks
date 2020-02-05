@@ -49,6 +49,10 @@
     ```allintext:password filetype:log after:2019```  
     ```allintext:username filetype:log```
     
-4-For finding log in pages
+4-For finding login pages
      ```intext:"username" and intext:"password"```
+     
+5-For finding people emails respective to your your specific person
+     ```site:mit.edu "cryptographer|security|hacking" "gmail.com" ```
+     
      
