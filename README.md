@@ -41,10 +41,14 @@
 
 1-For finding hacked websites or which have hacked in the past(bb)
    ```site:*.edu.in Hacked ```
+   
 2-Search for open Telegram invites on a topic
     ```inurl:"https://t.me" "hacking"```
+    
 3-Explore LOG Files For Login Credentials
     ```allintext:password filetype:log after:2019```  
     ```allintext:username filetype:log```
+    
 4-For finding log in pages
      ```intext:"username" and intext:"password"```
+     
