@@ -4,13 +4,15 @@
     site: Shows results to specific site for john carrier. 
     Example: site:facebook.com  John carrier
 
-    intitle: Restricts results to titles of webpages. 
+    intitle: Restricts results to titles of webpages.This will ask google to show pages that have the term in their html title. 
     Example: intitle:”Jobs in Defence”
 
-    inurl: Restricts results to the URL of a website. 
-    combination of inurl and site
-    Example: inurl:about site:indeed.com
-
+    inurl: Restricts results to the URL of a website.Searches for specified term in the URL. 
+    Example: inurl:register.php , inurl:about
+    
+    
+    allintext:
+    
     filetype: Searches for specific filetypes based on the extensions.
     Example: filetype:pdf site:indeed.com
 
@@ -39,3 +41,10 @@
 
 1-For finding hacked websites or which have hacked in the past(bb)
    ```site:*.edu.in Hacked ```
+2-Search for open Telegram invites on a topic
+    ```inurl:"https://t.me" "hacking"```
+3-Explore LOG Files For Login Credentials
+    ```allintext:password filetype:log after:2019```  
+    ```allintext:username filetype:log```
+4-For finding log in pages
+     ```intext:"username" and intext:"password"```
